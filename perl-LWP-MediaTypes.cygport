@@ -1,0 +1,11 @@
+CPAN_AUTHOR="gaas"
+inherit perl
+
+NAME="perl-LWP-MediaTypes"
+VERSION=6.02
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="MIME type detection module for Perl"
+DESCRIPTION="This module provides functions for handling media (also known as
+MIME) types and encodings. The mapping from file extensions to media types is
+defined by the media.types file."
